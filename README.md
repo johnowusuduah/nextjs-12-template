@@ -1,7 +1,9 @@
 # Next.js 12 Startup Guide
 
 1. Start Next 12 project to avoid lack of network effects for Next 13 (This initializes a Github Repo)
+```
 npx create-next-app@12
+```
 
 [Create a Github Repo without README and gitignore template and follow instructions on how to connect to a remote Repo]
 
