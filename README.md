@@ -1,25 +1,25 @@
 # Next.js 12 Startup Guide
 
-## NEXT.JS
+### Next.js
 1. Start Next 12 project to avoid lack of network effects for Next 13 (This initializes a Github Repo)
 ```
 npx create-next-app@12
 ```
 2. Create a Github Repo without `README` and `gitignore` template and follow instructions on how to connect to a remote Repo.
 
-## TAILWIND
+### Tailwind
 3. Add tailwind
 ```
 https://tailwindcss.com/docs/guides/nextjs
 ```
 
-## TYPESCRIPT
+## Typescript
 3. Create `tsconfig.json` file in root folder and run the following command to populate it.
 ```
 npm run dev
 ```
 
-## FIREBASE
+### Firebase
 4. Install Firebase and React-Firebase-Hooks
 ```
 npm i firebase react-firebase-hooks
